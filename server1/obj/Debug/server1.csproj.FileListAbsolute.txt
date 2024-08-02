@@ -1,0 +1,21 @@
+C:\Users\LAPTOP DAYAN\Desktop\server1\bin\Debug\server1.exe.config
+C:\Users\LAPTOP DAYAN\Desktop\server1\bin\Debug\server1.exe
+C:\Users\LAPTOP DAYAN\Desktop\server1\bin\Debug\server1.pdb
+C:\Users\LAPTOP DAYAN\Desktop\server1\obj\Debug\server1.csproj.AssemblyReference.cache
+C:\Users\LAPTOP DAYAN\Desktop\server1\obj\Debug\server1.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAPTOP DAYAN\Desktop\server1\obj\Debug\server1.Form1.resources
+C:\Users\LAPTOP DAYAN\Desktop\server1\obj\Debug\server1.Properties.Resources.resources
+C:\Users\LAPTOP DAYAN\Desktop\server1\obj\Debug\server1.csproj.GenerateResource.cache
+C:\Users\LAPTOP DAYAN\Desktop\server1\obj\Debug\server1.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP DAYAN\Desktop\server1\obj\Debug\server1.exe
+C:\Users\LAPTOP DAYAN\Desktop\server1\obj\Debug\server1.pdb
+C:\Users\fava\Desktop\server1\bin\Debug\server1.exe.config
+C:\Users\fava\Desktop\server1\bin\Debug\server1.exe
+C:\Users\fava\Desktop\server1\bin\Debug\server1.pdb
+C:\Users\fava\Desktop\server1\obj\Debug\server1.csproj.AssemblyReference.cache
+C:\Users\fava\Desktop\server1\obj\Debug\server1.Form1.resources
+C:\Users\fava\Desktop\server1\obj\Debug\server1.Properties.Resources.resources
+C:\Users\fava\Desktop\server1\obj\Debug\server1.csproj.GenerateResource.cache
+C:\Users\fava\Desktop\server1\obj\Debug\server1.csproj.CoreCompileInputs.cache
+C:\Users\fava\Desktop\server1\obj\Debug\server1.exe
+C:\Users\fava\Desktop\server1\obj\Debug\server1.pdb

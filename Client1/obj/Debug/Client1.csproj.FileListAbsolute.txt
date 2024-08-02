@@ -1,0 +1,21 @@
+C:\Users\LAPTOP DAYAN\Desktop\Client1\bin\Debug\Client1.exe.config
+C:\Users\LAPTOP DAYAN\Desktop\Client1\bin\Debug\Client1.exe
+C:\Users\LAPTOP DAYAN\Desktop\Client1\bin\Debug\Client1.pdb
+C:\Users\LAPTOP DAYAN\Desktop\Client1\obj\Debug\Client1.csproj.AssemblyReference.cache
+C:\Users\LAPTOP DAYAN\Desktop\Client1\obj\Debug\Client1.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAPTOP DAYAN\Desktop\Client1\obj\Debug\Client1.Form1.resources
+C:\Users\LAPTOP DAYAN\Desktop\Client1\obj\Debug\Client1.Properties.Resources.resources
+C:\Users\LAPTOP DAYAN\Desktop\Client1\obj\Debug\Client1.csproj.GenerateResource.cache
+C:\Users\LAPTOP DAYAN\Desktop\Client1\obj\Debug\Client1.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP DAYAN\Desktop\Client1\obj\Debug\Client1.exe
+C:\Users\LAPTOP DAYAN\Desktop\Client1\obj\Debug\Client1.pdb
+C:\Users\fava\Desktop\Client1\bin\Debug\Client1.exe.config
+C:\Users\fava\Desktop\Client1\bin\Debug\Client1.exe
+C:\Users\fava\Desktop\Client1\bin\Debug\Client1.pdb
+C:\Users\fava\Desktop\Client1\obj\Debug\Client1.csproj.AssemblyReference.cache
+C:\Users\fava\Desktop\Client1\obj\Debug\Client1.Form1.resources
+C:\Users\fava\Desktop\Client1\obj\Debug\Client1.Properties.Resources.resources
+C:\Users\fava\Desktop\Client1\obj\Debug\Client1.csproj.GenerateResource.cache
+C:\Users\fava\Desktop\Client1\obj\Debug\Client1.csproj.CoreCompileInputs.cache
+C:\Users\fava\Desktop\Client1\obj\Debug\Client1.exe
+C:\Users\fava\Desktop\Client1\obj\Debug\Client1.pdb
